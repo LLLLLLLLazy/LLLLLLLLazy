@@ -51,16 +51,21 @@ Led the design of an in-order, dual-issue, eight-stage processor for the reduced
 
 Developed the core retrieval-augmented generation pipeline for a campus-specific question-answering platform, using contextual semantic retrieval and local knowledge to reduce domain-specific hallucinations.
 
-## Languages & tools
+## Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,vscode&theme=light" alt="C, C++, Python, Git, Linux, and Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog&theme=light" alt="C, C++, Python, and Verilog" />
+</p>
+
+## Tools & platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=light" alt="Git, Linux, and Visual Studio Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Verilog-HDL-4B3088?style=flat-square" alt="Verilog HDL" />
   <img src="https://img.shields.io/badge/Vivado-FPGA_Design-EA5B0C?style=flat-square" alt="Vivado FPGA design" />
-  <img src="https://img.shields.io/badge/RTL-Design-334155?style=flat-square" alt="RTL design" />
+  <img src="https://img.shields.io/badge/FPGA-Hardware_Platform-334155?style=flat-square" alt="FPGA hardware platform" />
 </p>
 
 ## Selected recognition
@@ -68,12 +73,6 @@ Developed the core retrieval-augmented generation pipeline for a campus-specific
 - **National Scholarship**
 - **First-Class Scholarship of NPU**
 - **National Second Prize (Team)**, 9th Loongson Cup National Student Computer System Capability Challenge — Team Lead
-
-## GitHub overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LLLLLLLLazy&theme=github" alt="Jiaoyang Yan's GitHub profile details" />
-</p>
 
 ---
 
