@@ -51,16 +51,10 @@ Led the design of an in-order, dual-issue, eight-stage processor for the reduced
 
 Developed the core retrieval-augmented generation pipeline for a campus-specific question-answering platform, using contextual semantic retrieval and local knowledge to reduce domain-specific hallucinations.
 
-## Languages
+## Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog&theme=light" alt="C, C++, Python, and Verilog" />
-</p>
-
-## Tools & platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=light" alt="Git, Linux, and Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,git,linux,vscode&theme=light" alt="C, C++, Python, Verilog, Git, Linux, and Visual Studio Code" />
 </p>
 
 <p align="center">
