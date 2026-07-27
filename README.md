@@ -65,8 +65,8 @@ Developed the core retrieval-augmented generation pipeline for a campus-specific
 ## Selected recognition
 
 - **National Scholarship**
-- **First-Class Scholarship of NPU**
 - **National Second Prize (Team)**, 9th Loongson Cup National Student Computer System Capability Challenge — Team Lead
+- **First Prize**, Western China Regional Contest, National Student Computer System Capability Challenge - OS Kernel Implementation Track
 
 ---
 
